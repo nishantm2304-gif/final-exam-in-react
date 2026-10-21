@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Maya Patel",
+      "phone": "+1 555 0101",
+      "email": "maya.patel@school.com",
+      "age": 14,
+      "class": "Grade 8",
+      "grade": 92,
+      "image": ""
+    },
+    {
+      "id": "2",
+      "name": "Ethan Brooks",
+      "phone": "+1 555 0102",
+      "email": "ethan.brooks@school.com",
+      "age": 13,
+      "class": "Grade 7",
+      "grade": 86,
+      "image": ""
+    },
+    {
+      "id": "3",
+      "name": "Sofia Chen",
+      "phone": "+1 555 0103",
+      "email": "sofia.chen@school.com",
+      "age": 15,
+      "class": "Grade 9",
+      "grade": 96,
+      "image": ""
+    },
+    {
+      "id": "4",
+      "name": "Noah Williams",
+      "phone": "+1 555 0104",
+      "email": "noah.williams@school.com",
+      "age": 14,
+      "class": "Grade 8",
+      "grade": 81,
+      "image": ""
+    },
+    {
+      "id": "5",
+      "name": "Ava Johnson",
+      "phone": "+1 555 0105",
+      "email": "ava.johnson@school.com",
+      "age": 13,
+      "class": "Grade 7",
+      "grade": 89,
+      "image": ""
+    },
+    {
+      "name": "maya patel",
+      "phone": "9484678680",
+      "email": "student@school.com",
+      "age": 18,
+      "class": "Grade 8",
+      "grade": "50",
+      "image": "http://localhost:5173/",
+      "id": "zBibIik"
+    }
+  ]
+}
